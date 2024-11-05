@@ -1,0 +1,138 @@
+--------[ 鲁大师详细报表 ]----------------------------------------------------------------------------------
+
+  软件版本                     鲁大师 6.1024.4065.829
+  模块版本                     5.1024.1745.826
+  检测时间                     2024-09-06 09:59:52
+  官方网站                     http://www.ludashi.com
+
+--------[ 概览 ]----------------------------------------------------------------------------------
+
+  电脑型号                     微星 MS-7E06 台式电脑
+  操作系统                     Windows 11 专业版 64位（Version 22H2 / DirectX 12）
+
+  处理器                       13th Gen Intel Core i9-13900K
+  主板                         微星 PRO Z790-P WIFI (MS-7E06)（LPC Controller/eSPI Controller Z790芯片组）
+  显卡                         NVIDIA GeForce RTX 3090 ( 24 GB / NVIDIA )
+  内存                         128 GB ( 海盗船 DDR5 5200MHz 32GB x 4 )
+  主硬盘                        HP SSD FX700 2TB (2048 GB / 固态硬盘)
+  显示器                       XMI XMID003 P27QBB-RA ( 27 英寸  )
+  声卡                         瑞昱  @ 英特尔 High Definition Audio 控制器
+  网卡                         英特尔 Wi-Fi 6E AX211 160MHz
+
+--------[ 主板 ]----------------------------------------------------------------------------------
+
+  主板型号                     微星 PRO Z790-P WIFI (MS-7E06)
+  芯片组                       LPC Controller/eSPI Controller Z790芯片组
+  序列号                       07E0622_NA1E543915
+  主板版本                     2.0
+  BIOS                         安迈  International, LLC. A.90  /  BIOS程序发布日期: 09/08/2023
+  BIOS的大小                   16384 KB
+
+--------[ 处理器 ]----------------------------------------------------------------------------------
+
+  处理器                       13th Gen Intel Core i9-13900K
+  速度                         3.00 GHz
+  处理器数量                   核心数：24 / 线程数：32
+  插槽/插座                    U3E1
+  一级数据缓存                 8 x 48 KB, 12-Way, 64 byte lines + 16 x 32 KB, 8-Way, 64 byte lines
+  一级代码缓存                 8 x 32 KB, 8-Way, 64 byte lines + 16 x 64 KB, 8-Way, 64 byte lines
+  二级缓存                     8 x 2 MB, 16-Way, 64 byte lines + 4 x 4 MB, 16-Way, 64 byte lines
+  三级缓存                     36 MB, 12-Way, 64 byte lines
+  特征                         MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, HTT, EM64T, EIST, Turbo Boost
+
+--------[ 硬盘 ]----------------------------------------------------------------------------------
+
+  产品                         HP SSD FX700 2TB (固态硬盘)
+  大小                         2048 GB
+  固件                         SN14428
+  接口                         PCIe 4.0 x4
+  数据传输率                   8000 MB/秒
+  特性                         S.M.A.R.T, VolatileWriteCache
+  硬盘已使用                   共 25 次，累计 12 小时
+
+  产品                         西数   WUH721816ALE6L4
+  大小                         16001 GB
+  固件                         PCGNW680
+  接口                         SATA III
+  数据传输率                   600 MB/秒
+  特性                         S.M.A.R.T, APM, 48-bit LBA, NCQ
+  硬盘已使用                   共 22 次，累计 14 小时
+  转速                         7200 转/分
+
+--------[ 内存 ]----------------------------------------------------------------------------------
+
+  Controller0-DIMMA1           海盗船 DDR5 5200MHz 32GB
+  制造日期                     2023 年 43 周
+  型号                         CMK5X32G2B52C40A2
+  厂商                         Corsair
+  模块位宽                     2 * 32 Bits
+  模块电压                     SSTL 1.20V
+
+  Controller0-DIMMA2           海盗船 DDR5 5200MHz 32GB
+  制造日期                     2023 年 43 周
+  型号                         CMK5X32G2B52C40A2
+  厂商                         Corsair
+  模块位宽                     2 * 32 Bits
+  模块电压                     SSTL 1.20V
+
+  Controller1-DIMMB1           海盗船 DDR5 5200MHz 32GB
+  制造日期                     2023 年 43 周
+  型号                         CMK5X32G2B52C40A2
+  厂商                         Corsair
+  模块位宽                     2 * 32 Bits
+  模块电压                     SSTL 1.20V
+
+  Controller1-DIMMB2           海盗船 DDR5 5200MHz 32GB
+  制造日期                     2023 年 43 周
+  型号                         CMK5X32G2B52C40A2
+  厂商                         Corsair
+  模块位宽                     2 * 32 Bits
+  模块电压                     SSTL 1.20V
+
+--------[ 显卡 ]----------------------------------------------------------------------------------
+
+  主显卡                       NVIDIA GeForce RTX 3090
+  显存                         24 GB
+  频率                         核心: 1395MHz / 显存: 1218MHz
+  显卡制造商                   NVIDIA
+  芯片制造商                   Nvidia
+  BIOS版本                     94.02.42.00.02
+  驱动版本                     27.21.14.5671
+  驱动日期                     20200930
+
+  显卡                         英特尔 UHD Graphics 770
+  显存                         128 MB
+  显卡制造商                   微星
+  芯片制造商                   Intel
+  驱动版本                     31.0.101.4889
+  驱动日期                     20231029
+
+--------[ 显示器 ]----------------------------------------------------------------------------------
+
+  产品                         XMI XMID003 P27QBB-RA
+  厂商                         XMI
+  固件程序日期                 2024 年 27 周
+  屏幕尺寸                     27 英寸 (597 毫米 x 336 毫米)
+  显示比例                     宽屏 16 : 9
+  分辨率                       2560 x 1440 (缩放比例:125%) 32 位真彩色
+  Gamma                        2.20
+  电源管理                     Active-Off, Preferred Timing Mode
+
+--------[ 其他设备 ]----------------------------------------------------------------------------------
+
+  网卡                         Intel(R) Wi-Fi 6E AX211 160MHz
+
+  网卡                         Intel(R) Ethernet Controller (3) I225-V
+
+  声卡                         NVIDIA  @ NVIDIA High Definition Audio 控制器
+
+  声卡                         瑞昱  @ 英特尔 High Definition Audio 控制器
+
+  键盘                         HID 标准键盘
+  键盘                         HID 标准键盘
+  键盘                         HID 标准键盘
+  键盘                         HID 标准键盘
+  鼠标                         HID-compliant 鼠标
+  鼠标                         HID-compliant 鼠标
+  鼠标                         HID-compliant 鼠标
+
